@@ -6,6 +6,6 @@ site_author: Natali van Zijl
 copyright: Made available under the <a href = "https://creativecommons.org/licenses/by/4.0/">CC BY 4.0 license</a>
 
 nav:
-    - 'Database': 'index.md'
+    - 'Home': 'index.md'
     - 'Code': 'code_instructions.md'
     - 'Acknowledgements': 'acknowledgements.md'

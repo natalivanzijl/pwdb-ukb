@@ -1,4 +1,4 @@
-This page will be populated when we release the database (hopefully soon!).
+*News: This page will be populated when we release the database (hopefully soon!).*
 
 ## 1. Extracting UK Biobank data
 
