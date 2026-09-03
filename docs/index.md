@@ -18,7 +18,7 @@ The database will be made publicly available at DOI: 10.5281/zenodo.21902819 in 
 
 ## Reproducing the database
 
-The database was generated based on the methodology from [Peter Charlton's pwdb](https://github.com/peterhcharlton/pwdb/wiki/Reproducing-the-Pulse-Wave-Database). The scripts and detailed instructions to reproduce the database will be made available [here](./code/).
+The scripts and detailed instructions to reproduce the database will be made available [here](./code_instructions.md).
 
 ## Citation
 When using this database, please cite:
