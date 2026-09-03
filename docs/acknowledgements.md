@@ -2,8 +2,6 @@
 
 The database was created by Natali van Zijl, with input from:
 
-Jordi Alastruey
-
 Ye Li
 
 Phil Chowienczyk
