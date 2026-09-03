@@ -2,13 +2,19 @@
 
 The database was created by Natali van Zijl, with input from:
 
-Jordi Alastruey 
-Ye Li 
-Phil Chowienczyk 
-Peter H Charlton 
-Andrew King 
-Esther Puyol-Antón 
-Jordi Alastruey 
+Jordi Alastruey
+
+Ye Li
+
+Phil Chowienczyk
+
+Peter H Charlton
+
+Andrew King
+
+Esther Puyol-Antón
+
+Jordi Alastruey
 
 ## Funding
 
