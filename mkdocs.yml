@@ -1,0 +1,11 @@
+site_name: pwdb-ukb
+repo_url: https://github.com/natalivanzijl/pwdb-ukb
+edit_uri: ''
+site_description: pwdb-ukb, a database of *in silico* pulse waves based on the UK Biobank
+site_author: Natali van Zijl
+copyright: Made available under the <a href = "https://creativecommons.org/licenses/by/4.0/">CC BY 4.0 license</a>
+
+nav:
+    - 'Database': 'index.md'
+    - 'Code': 'code_instructions.md'
+    - 'Acknowledgements': 'acknowledgements.md'
